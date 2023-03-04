@@ -6,7 +6,7 @@
 - React
 - TypeScript
 - Tailwind CSS
-  - daisyUI
+  - daisyUI (default theme: cupcake)
 - Prettier
 
 This is a simple starter for beginners.
